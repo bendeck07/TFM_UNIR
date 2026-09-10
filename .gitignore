@@ -1,0 +1,16 @@
+# Datos crudos (descargar de Kaggle, ver README)
+data/creditcard.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs temporales
+*.log
